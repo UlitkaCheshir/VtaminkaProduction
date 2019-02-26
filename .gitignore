@@ -1,0 +1,10 @@
+.idea
+node_modules
+bower_components
+package-lock.json
+tasks
+products
+images
+i18n
+public/js/index.js
+public/js/index.js.map
